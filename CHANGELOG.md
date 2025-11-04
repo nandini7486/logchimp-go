@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.0.3 (2025-11-04)
+
+Full Changelog: [v0.0.2...v0.0.3](https://github.com/logchimp/logchimp-go/compare/v0.0.2...v0.0.3)
+
+### Chores
+
+* **internal:** grammar fix (it's -&gt; its) ([d08dba3](https://github.com/logchimp/logchimp-go/commit/d08dba3719986e315fe972091288d143ada7462c))
+
 ## 0.0.2 (2025-10-10)
 
 Full Changelog: [v0.0.1...v0.0.2](https://github.com/logchimp/logchimp-go/compare/v0.0.1...v0.0.2)
